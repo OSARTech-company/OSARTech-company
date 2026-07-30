@@ -1,7 +1,13 @@
 # OSARTech
 
 <p align="center">
-  <img src="OSARTech-company/assets/image.png" alt="OSARTech Logo" width="180">
+  <img src="assets/image.png" alt="OSARTech Logo" width="220">
+</p>
+
+<h1 align="center">OSARTech</h1>
+
+<p align="center">
+  <strong>Redefining Technology.</strong>
 </p>
 
 ## Redefining Technology
