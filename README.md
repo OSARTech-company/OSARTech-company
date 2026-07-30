@@ -1,7 +1,7 @@
 # OSARTech
 
 <p align="center">
-  <img src="assets/image.png" alt="OSARTech Logo" width="220">
+  <img src="assets/image.png" alt="OSARTech Logo" width="220" class="round">
 </p>
 
 <h1 align="center">OSARTech</h1>
